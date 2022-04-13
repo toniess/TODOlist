@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Database.js</file>
+        <file>Time.js</file>
+        <file>LeftMenu.qml</file>
+        <file>WorkSpace.qml</file>
+        <file>Panel.qml</file>
+        <file>AppFrame.qml</file>
+        <file>SystemMenuButton.qml</file>
+        <file>MyLeftBorderLine.qml</file>
+        <file>MyPanelListItem.qml</file>
+        <file>img/calendar.png</file>
+        <file>img/dead.png</file>
+        <file>img/settings.png</file>
+        <file>img/today.png</file>
+        <file>img/done.png</file>
+        <file>pages/todayPage.qml</file>
+        <file>pages/calendarPage.qml</file>
+        <file>pages/TaskItem.qml</file>
+        <file>fonts/Arial Bold.ttf</file>
+        <file>fonts/ayar.ttf</file>
+        <file>img/okey.png</file>
+        <file>img/contextMenu.png</file>
+        <file>img/plus-red.png</file>
+        <file>img/plus.png</file>
+        <file>img/delete-red.svg</file>
+        <file>img/rename.svg</file>
+        <file>img/delete.svg</file>
+        <file>pages/settingsPage.qml</file>
+    </qresource>
+</RCC>
